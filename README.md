@@ -1,3 +1,5 @@
+__abandoned__ -- not being developed or used
+
 # flapjack-nagios-receiver
 
 Similar to the `flapjack-nagios-receiver` that is part of the
